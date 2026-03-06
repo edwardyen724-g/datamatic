@@ -1,0 +1,1 @@
+export const firestoreAdmin = {}; // Your Firebase Admin initialization goes here
